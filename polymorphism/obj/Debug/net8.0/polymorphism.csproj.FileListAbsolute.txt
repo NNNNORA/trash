@@ -1,0 +1,14 @@
+G:\progmodules3\polymorphism\obj\Debug\net8.0\polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+G:\progmodules3\polymorphism\obj\Debug\net8.0\polymorphism.AssemblyInfoInputs.cache
+G:\progmodules3\polymorphism\obj\Debug\net8.0\polymorphism.AssemblyInfo.cs
+G:\progmodules3\polymorphism\obj\Debug\net8.0\polymorphism.csproj.CoreCompileInputs.cache
+G:\progmodules3\polymorphism\bin\Debug\net8.0\polymorphism.exe
+G:\progmodules3\polymorphism\bin\Debug\net8.0\polymorphism.deps.json
+G:\progmodules3\polymorphism\bin\Debug\net8.0\polymorphism.runtimeconfig.json
+G:\progmodules3\polymorphism\bin\Debug\net8.0\polymorphism.dll
+G:\progmodules3\polymorphism\bin\Debug\net8.0\polymorphism.pdb
+G:\progmodules3\polymorphism\obj\Debug\net8.0\polymorphism.dll
+G:\progmodules3\polymorphism\obj\Debug\net8.0\refint\polymorphism.dll
+G:\progmodules3\polymorphism\obj\Debug\net8.0\polymorphism.pdb
+G:\progmodules3\polymorphism\obj\Debug\net8.0\polymorphism.genruntimeconfig.cache
+G:\progmodules3\polymorphism\obj\Debug\net8.0\ref\polymorphism.dll
