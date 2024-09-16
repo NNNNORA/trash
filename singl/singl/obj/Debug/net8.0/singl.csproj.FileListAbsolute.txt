@@ -1,0 +1,14 @@
+C:\Users\eninapv\source\repos\singl\singl\bin\Debug\net8.0\singl.exe
+C:\Users\eninapv\source\repos\singl\singl\bin\Debug\net8.0\singl.deps.json
+C:\Users\eninapv\source\repos\singl\singl\bin\Debug\net8.0\singl.runtimeconfig.json
+C:\Users\eninapv\source\repos\singl\singl\bin\Debug\net8.0\singl.dll
+C:\Users\eninapv\source\repos\singl\singl\bin\Debug\net8.0\singl.pdb
+C:\Users\eninapv\source\repos\singl\singl\obj\Debug\net8.0\singl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eninapv\source\repos\singl\singl\obj\Debug\net8.0\singl.AssemblyInfoInputs.cache
+C:\Users\eninapv\source\repos\singl\singl\obj\Debug\net8.0\singl.AssemblyInfo.cs
+C:\Users\eninapv\source\repos\singl\singl\obj\Debug\net8.0\singl.csproj.CoreCompileInputs.cache
+C:\Users\eninapv\source\repos\singl\singl\obj\Debug\net8.0\singl.dll
+C:\Users\eninapv\source\repos\singl\singl\obj\Debug\net8.0\refint\singl.dll
+C:\Users\eninapv\source\repos\singl\singl\obj\Debug\net8.0\singl.pdb
+C:\Users\eninapv\source\repos\singl\singl\obj\Debug\net8.0\singl.genruntimeconfig.cache
+C:\Users\eninapv\source\repos\singl\singl\obj\Debug\net8.0\ref\singl.dll
