@@ -1,0 +1,3 @@
+student Id=1,Name=John Doe,Courses=1,2
+teacher Id=2,Name=Jane Smith,Exp=10,Courses=1
+course Id=3,Name=Math,TeacherId=2,Students=1

@@ -1,0 +1,14 @@
+G:\с#\factor\factor\obj\Debug\net8.0\factor.GeneratedMSBuildEditorConfig.editorconfig
+G:\с#\factor\factor\obj\Debug\net8.0\factor.AssemblyInfoInputs.cache
+G:\с#\factor\factor\obj\Debug\net8.0\factor.AssemblyInfo.cs
+G:\с#\factor\factor\obj\Debug\net8.0\factor.csproj.CoreCompileInputs.cache
+G:\с#\factor\factor\bin\Debug\net8.0\factor.exe
+G:\с#\factor\factor\bin\Debug\net8.0\factor.deps.json
+G:\с#\factor\factor\bin\Debug\net8.0\factor.runtimeconfig.json
+G:\с#\factor\factor\bin\Debug\net8.0\factor.dll
+G:\с#\factor\factor\bin\Debug\net8.0\factor.pdb
+G:\с#\factor\factor\obj\Debug\net8.0\factor.dll
+G:\с#\factor\factor\obj\Debug\net8.0\refint\factor.dll
+G:\с#\factor\factor\obj\Debug\net8.0\factor.pdb
+G:\с#\factor\factor\obj\Debug\net8.0\factor.genruntimeconfig.cache
+G:\с#\factor\factor\obj\Debug\net8.0\ref\factor.dll
