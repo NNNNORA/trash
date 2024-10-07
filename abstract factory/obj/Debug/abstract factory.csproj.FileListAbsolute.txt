@@ -1,0 +1,30 @@
+D:\c# progmodules\abstract factory\bin\Debug\abstract factory.exe.config
+D:\c# progmodules\abstract factory\bin\Debug\abstract factory.exe
+D:\c# progmodules\abstract factory\bin\Debug\abstract factory.pdb
+D:\c# progmodules\abstract factory\obj\Debug\abstract factory.csproj.AssemblyReference.cache
+D:\c# progmodules\abstract factory\obj\Debug\MainWindow.g.cs
+D:\c# progmodules\abstract factory\obj\Debug\App.g.cs
+D:\c# progmodules\abstract factory\obj\Debug\abstract factory_MarkupCompile.cache
+D:\c# progmodules\abstract factory\obj\Debug\abstract factory_MarkupCompile.lref
+D:\c# progmodules\abstract factory\obj\Debug\MainWindow.baml
+D:\c# progmodules\abstract factory\obj\Debug\abstract factory.g.resources
+D:\c# progmodules\abstract factory\obj\Debug\abstract_factory.Properties.Resources.resources
+D:\c# progmodules\abstract factory\obj\Debug\abstract factory.csproj.GenerateResource.cache
+D:\c# progmodules\abstract factory\obj\Debug\abstract factory.csproj.CoreCompileInputs.cache
+D:\c# progmodules\abstract factory\obj\Debug\abstract factory.exe
+D:\c# progmodules\abstract factory\obj\Debug\abstract factory.pdb
+G:\с#\abstract factory\bin\Debug\abstract factory.exe.config
+G:\с#\abstract factory\bin\Debug\abstract factory.exe
+G:\с#\abstract factory\bin\Debug\abstract factory.pdb
+G:\с#\abstract factory\obj\Debug\abstract factory.csproj.AssemblyReference.cache
+G:\с#\abstract factory\obj\Debug\MainWindow.g.cs
+G:\с#\abstract factory\obj\Debug\App.g.cs
+G:\с#\abstract factory\obj\Debug\abstract factory_MarkupCompile.cache
+G:\с#\abstract factory\obj\Debug\abstract factory_MarkupCompile.lref
+G:\с#\abstract factory\obj\Debug\MainWindow.baml
+G:\с#\abstract factory\obj\Debug\abstract factory.g.resources
+G:\с#\abstract factory\obj\Debug\abstract_factory.Properties.Resources.resources
+G:\с#\abstract factory\obj\Debug\abstract factory.csproj.GenerateResource.cache
+G:\с#\abstract factory\obj\Debug\abstract factory.csproj.CoreCompileInputs.cache
+G:\с#\abstract factory\obj\Debug\abstract factory.exe
+G:\с#\abstract factory\obj\Debug\abstract factory.pdb
