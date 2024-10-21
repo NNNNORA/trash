@@ -1,0 +1,28 @@
+G:\c# progmodules\Builder\bin\Debug\net8.0\Builder.exe
+G:\c# progmodules\Builder\bin\Debug\net8.0\Builder.deps.json
+G:\c# progmodules\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+G:\c# progmodules\Builder\bin\Debug\net8.0\Builder.dll
+G:\c# progmodules\Builder\bin\Debug\net8.0\Builder.pdb
+G:\c# progmodules\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# progmodules\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+G:\c# progmodules\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+G:\c# progmodules\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+G:\c# progmodules\Builder\obj\Debug\net8.0\Builder.dll
+G:\c# progmodules\Builder\obj\Debug\net8.0\refint\Builder.dll
+G:\c# progmodules\Builder\obj\Debug\net8.0\Builder.pdb
+G:\c# progmodules\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+G:\c# progmodules\Builder\obj\Debug\net8.0\ref\Builder.dll
+G:\с#\progm3-main\Builder\bin\Debug\net8.0\Builder.exe
+G:\с#\progm3-main\Builder\bin\Debug\net8.0\Builder.deps.json
+G:\с#\progm3-main\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+G:\с#\progm3-main\Builder\bin\Debug\net8.0\Builder.dll
+G:\с#\progm3-main\Builder\bin\Debug\net8.0\Builder.pdb
+G:\с#\progm3-main\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+G:\с#\progm3-main\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+G:\с#\progm3-main\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+G:\с#\progm3-main\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+G:\с#\progm3-main\Builder\obj\Debug\net8.0\Builder.dll
+G:\с#\progm3-main\Builder\obj\Debug\net8.0\refint\Builder.dll
+G:\с#\progm3-main\Builder\obj\Debug\net8.0\Builder.pdb
+G:\с#\progm3-main\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+G:\с#\progm3-main\Builder\obj\Debug\net8.0\ref\Builder.dll
