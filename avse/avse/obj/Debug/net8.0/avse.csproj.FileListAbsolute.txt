@@ -1,0 +1,14 @@
+C:\Users\eninapv\source\repos\avse\avse\bin\Debug\net8.0\avse.exe
+C:\Users\eninapv\source\repos\avse\avse\bin\Debug\net8.0\avse.deps.json
+C:\Users\eninapv\source\repos\avse\avse\bin\Debug\net8.0\avse.runtimeconfig.json
+C:\Users\eninapv\source\repos\avse\avse\bin\Debug\net8.0\avse.dll
+C:\Users\eninapv\source\repos\avse\avse\bin\Debug\net8.0\avse.pdb
+C:\Users\eninapv\source\repos\avse\avse\obj\Debug\net8.0\avse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eninapv\source\repos\avse\avse\obj\Debug\net8.0\avse.AssemblyInfoInputs.cache
+C:\Users\eninapv\source\repos\avse\avse\obj\Debug\net8.0\avse.AssemblyInfo.cs
+C:\Users\eninapv\source\repos\avse\avse\obj\Debug\net8.0\avse.csproj.CoreCompileInputs.cache
+C:\Users\eninapv\source\repos\avse\avse\obj\Debug\net8.0\avse.dll
+C:\Users\eninapv\source\repos\avse\avse\obj\Debug\net8.0\refint\avse.dll
+C:\Users\eninapv\source\repos\avse\avse\obj\Debug\net8.0\avse.pdb
+C:\Users\eninapv\source\repos\avse\avse\obj\Debug\net8.0\avse.genruntimeconfig.cache
+C:\Users\eninapv\source\repos\avse\avse\obj\Debug\net8.0\ref\avse.dll
