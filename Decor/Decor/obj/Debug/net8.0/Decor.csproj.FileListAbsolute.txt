@@ -1,0 +1,14 @@
+C:\Users\Полина\source\repos\Decor\Decor\bin\Debug\net8.0\Decor.exe
+C:\Users\Полина\source\repos\Decor\Decor\bin\Debug\net8.0\Decor.deps.json
+C:\Users\Полина\source\repos\Decor\Decor\bin\Debug\net8.0\Decor.runtimeconfig.json
+C:\Users\Полина\source\repos\Decor\Decor\bin\Debug\net8.0\Decor.dll
+C:\Users\Полина\source\repos\Decor\Decor\bin\Debug\net8.0\Decor.pdb
+C:\Users\Полина\source\repos\Decor\Decor\obj\Debug\net8.0\Decor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Полина\source\repos\Decor\Decor\obj\Debug\net8.0\Decor.AssemblyInfoInputs.cache
+C:\Users\Полина\source\repos\Decor\Decor\obj\Debug\net8.0\Decor.AssemblyInfo.cs
+C:\Users\Полина\source\repos\Decor\Decor\obj\Debug\net8.0\Decor.csproj.CoreCompileInputs.cache
+C:\Users\Полина\source\repos\Decor\Decor\obj\Debug\net8.0\Decor.dll
+C:\Users\Полина\source\repos\Decor\Decor\obj\Debug\net8.0\refint\Decor.dll
+C:\Users\Полина\source\repos\Decor\Decor\obj\Debug\net8.0\Decor.pdb
+C:\Users\Полина\source\repos\Decor\Decor\obj\Debug\net8.0\Decor.genruntimeconfig.cache
+C:\Users\Полина\source\repos\Decor\Decor\obj\Debug\net8.0\ref\Decor.dll
