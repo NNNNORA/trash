@@ -1,0 +1,14 @@
+D:\kdhfdh\Iterator\Iterator\bin\Debug\net8.0\Iterator.exe
+D:\kdhfdh\Iterator\Iterator\bin\Debug\net8.0\Iterator.deps.json
+D:\kdhfdh\Iterator\Iterator\bin\Debug\net8.0\Iterator.runtimeconfig.json
+D:\kdhfdh\Iterator\Iterator\bin\Debug\net8.0\Iterator.dll
+D:\kdhfdh\Iterator\Iterator\bin\Debug\net8.0\Iterator.pdb
+D:\kdhfdh\Iterator\Iterator\obj\Debug\net8.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\kdhfdh\Iterator\Iterator\obj\Debug\net8.0\Iterator.AssemblyInfoInputs.cache
+D:\kdhfdh\Iterator\Iterator\obj\Debug\net8.0\Iterator.AssemblyInfo.cs
+D:\kdhfdh\Iterator\Iterator\obj\Debug\net8.0\Iterator.csproj.CoreCompileInputs.cache
+D:\kdhfdh\Iterator\Iterator\obj\Debug\net8.0\Iterator.dll
+D:\kdhfdh\Iterator\Iterator\obj\Debug\net8.0\refint\Iterator.dll
+D:\kdhfdh\Iterator\Iterator\obj\Debug\net8.0\Iterator.pdb
+D:\kdhfdh\Iterator\Iterator\obj\Debug\net8.0\Iterator.genruntimeconfig.cache
+D:\kdhfdh\Iterator\Iterator\obj\Debug\net8.0\ref\Iterator.dll
