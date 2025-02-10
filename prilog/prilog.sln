@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prilog", "prilog\prilog.csproj", "{0449160C-CE14-4468-B3EB-4EA61A5BB70E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContextLibrary", "ContextLibrary", "{67039B46-3C38-4278-BDB8-1797ABDA0869}"
+	ProjectSection(SolutionItems) = preProject
+		ApplicationContext.cs = ApplicationContext.cs
+		ContextLibrary.csproj = ContextLibrary.csproj
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{90CEECAD-2823-416D-A51E-2DEE4079116E}"
+	ProjectSection(SolutionItems) = preProject
+		Adjuster.cs = Adjuster.cs
+		AdjusterRequests.cs = AdjusterRequests.cs
+		Request.cs = Request.cs
+		RequestStatus.cs = RequestStatus.cs
+		TexType.cs = TexType.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0449160C-CE14-4468-B3EB-4EA61A5BB70E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0449160C-CE14-4468-B3EB-4EA61A5BB70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0449160C-CE14-4468-B3EB-4EA61A5BB70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0449160C-CE14-4468-B3EB-4EA61A5BB70E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{90CEECAD-2823-416D-A51E-2DEE4079116E} = {67039B46-3C38-4278-BDB8-1797ABDA0869}
+	EndGlobalSection
+EndGlobal

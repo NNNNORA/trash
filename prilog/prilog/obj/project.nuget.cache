@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "9p0nWkYTUPI=",
+  "success": false,
+  "projectFilePath": "D:\\kdhfdh\\prilog\\prilog\\prilog.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Не удалось найти сведения о проекте для \"D:\\kdhfdh\\ContextLibrary\\ContextLibrary.csproj\". Если вы используете Visual Studio, причина может заключаться в том, что проект выгружен или не является частью текущего решения. В этом случае выполните восстановление из командной строки. В противном случае причина может быть связана с тем, что файл проекта является недопустимым или отсутствуют целевые объекты, необходимые для восстановления.",
+      "libraryId": "D:\\kdhfdh\\ContextLibrary\\ContextLibrary.csproj",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    }
+  ]
+}

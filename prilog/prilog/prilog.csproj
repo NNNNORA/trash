@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="ContextLibrary\ContextLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="D:\kdhfdh\ContextLibrary\ContextLibrary.csproj" />
+  </ItemGroup>
+
+</Project>
