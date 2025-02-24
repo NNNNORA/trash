@@ -1,0 +1,46 @@
+﻿<Window x:Class="TechnicRepairVar2Lab3.AddEditRequestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавить/Редактировать заявку" Height="460" Width="350">
+    <StackPanel Margin="10">
+
+        <Label Content="Тип машины:" />
+        <ComboBox x:Name="CarTypeComboBox" ItemsSource="{Binding CarTypes}" 
+              SelectedItem="{Binding Request.CarType, Mode=TwoWay}" 
+              Width="200"/>
+
+        <Label Content="Модель машины:" />
+        <TextBox x:Name="TechnicModelTextBox" Text="{Binding Request.TechnicModel, Mode=TwoWay}" Width="200"/>
+
+        <Label Content="Описание проблемы:" />
+        <TextBox Text="{Binding Request.Description, Mode=TwoWay}" Width="200"/>
+
+        <Label Content="Клиент (ФИО):" />
+        <TextBox x:Name="ClientLFPTextBox" Text="{Binding Request.ClientLFP, Mode=TwoWay}" Width="200"/>
+
+        <Label Content="Телефон клиента:" />
+        <TextBox x:Name="PhoneNumberTextBox" Text="{Binding Request.PhoneNumber, Mode=TwoWay}" Width="200"/>
+
+        <Label Content="Статус заявки:" />
+        <ComboBox ItemsSource="{Binding RequestStatuses}" 
+              SelectedItem="{Binding Request.Status, Mode=TwoWay}" 
+              Width="200"/>
+
+        <Label Content="Этап выполнения:" />
+        <ComboBox ItemsSource="{Binding ExecutionStages}" 
+              SelectedItem="{Binding Request.ExStage, Mode=TwoWay}" 
+              Width="200"/>
+
+        <Label Content="Ответственный механик:" />
+        <ComboBox ItemsSource="{Binding Mechanics}" 
+              DisplayMemberPath="LFP"
+              SelectedItem="{Binding SelectedMechanic, Mode=TwoWay}"
+              Width="200"/>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
+            <Button Content="Сохранить" Click="Save_Click" Width="100" Margin="5"/>
+            <Button Content="Отмена" Click="Cancel_Click" Width="100" Margin="5"/>
+        </StackPanel>
+
+    </StackPanel>
+</Window>

@@ -1,0 +1,52 @@
+﻿<Window x:Class="TechnicRepairVar2Lab3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Учет заявок" Height="500" Width="1200">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Поисковая панель -->
+        <StackPanel Orientation="Horizontal" Margin="10">
+            <TextBox x:Name="SearchBox" Width="200" 
+                     TextChanged="SearchBox_TextChanged" 
+                     Text="Поиск заявки..."/>
+
+            <ComboBox x:Name="SearchFilter" Width="150" Margin="5,0,0,0" SelectionChanged="SearchFilter_SelectionChanged">
+                <ComboBoxItem Content="Номер"/>
+                <ComboBoxItem Content="Модель"/>
+                <ComboBoxItem Content="Клиент"/>
+                <ComboBoxItem Content="Статус"/>
+            </ComboBox>
+        </StackPanel>
+
+        <!-- Список заявок -->
+        <ListView x:Name="RequestList" Grid.Row="1" Margin="10"
+                  ItemsSource="{Binding Requests}" SelectionMode="Single">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Номер" DisplayMemberBinding="{Binding Number}" Width="80"/>
+                    <GridViewColumn Header="Дата" DisplayMemberBinding="{Binding AddedDate}" Width="120"/>
+                    <GridViewColumn Header="Вид" DisplayMemberBinding="{Binding CarType}" Width="120"/>
+                    <GridViewColumn Header="Модель" DisplayMemberBinding="{Binding TechnicModel}" Width="120"/>
+                    <GridViewColumn Header="Описание" DisplayMemberBinding="{Binding Description}" Width="200"/>
+                    <GridViewColumn Header="Клиент" DisplayMemberBinding="{Binding ClientLFP}" Width="150"/>
+                    <GridViewColumn Header="Телефон" DisplayMemberBinding="{Binding PhoneNumber}" Width="120"/>
+                    <GridViewColumn Header="Статус" DisplayMemberBinding="{Binding Status}" Width="120"/>
+                    <GridViewColumn Header="Механик" DisplayMemberBinding="{Binding Mechanic.LFP, TargetNullValue='Не назначен'}" Width="150"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <!-- Нижняя панель -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="10">
+            <Button x:Name="AddRequestButton" Content="Добавить заявку" Click="AddRequest_Click"/>
+            <Button x:Name="EditRequestButton" Content="Редактировать" Click="EditRequest_Click" Margin="5,0,0,0"/>
+            <Label x:Name="CompletedCountLabel" Content="Выполненные заявки: 0" Margin="20,0,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

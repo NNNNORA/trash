@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TechnicRepairVar2Lab3/1.0.0": {
+        "runtime": {
+          "TechnicRepairVar2Lab3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TechnicRepairVar2Lab3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
